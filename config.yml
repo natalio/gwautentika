@@ -2,7 +2,7 @@ project_name: "Gateway Autentika"
 project_sigla: "gateway_autentika"
 project_path: "/gateway_autentika"
 project_path_test: "/gateway_autentika-test"
-project_port: "8088:8082"
+project_port: "8082:8082"
 project_env:
   dev:
     ENVIRONMENT: DEV_ENVIRONMENT
